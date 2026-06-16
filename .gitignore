@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large files and databases
+output/pdfs/
+*.db
+*.xlsx
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+.idea/
+.vscode/
