@@ -5,7 +5,7 @@ A professional-grade document intelligence pipeline designed to automate scienti
 ---
 
 ## 🎓 Google Student Researcher Alignment
-This project directly demonstrates qualifications requested by the Google Research team:
+
 * **Natural Language Understanding (NLU)**: Automated extraction of research objectives, methodology, and experimental results from unstructured PDFs.
 * **Information Retrieval**: Live integration with academic databases (arXiv API) using custom queries.
 * **Systems & Software Engineering**: Implementing robust data parsing pipelines, fault-tolerant network downloads, and an offline local compiler fallback.
