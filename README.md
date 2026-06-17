@@ -1,7 +1,7 @@
 # AI-Powered Research Assistant (Automated Literature Reviews)
 
 Built a document intelligence and research automation pipeline applying AI agent design principles from Google's kaggle AI Agents Intensive Course. The system retrieves academic papers, analyzes PDFs, and generates synthesized literature reviews through automated workflows.
----
+
 
 ## 🎓  Student Researcher Alignment
 
